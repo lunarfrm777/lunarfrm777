@@ -5,5 +5,5 @@
 
 
 <p align="center">
- <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lunarfrm777&theme=rose" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lunarfrm777&theme=rose" alt="GitHub Streak" />
 </p>
